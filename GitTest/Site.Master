@@ -38,7 +38,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p class="site-title">
-                    <a runat="server" href="~/">Teacher Lingo - v2</a>
+                    <a runat="server" href="~/">Teacher Lingo - v2.3</a>
                 </p>
             </div>
             <div class="float-right">
